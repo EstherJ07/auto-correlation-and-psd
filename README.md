@@ -55,7 +55,7 @@ plot(fw2);
 
 OUTPUT:
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31844482-919c-434e-aecc-d825236975b5" />
+<img width="761" height="724" alt="Screenshot 2026-05-29 053021" src="https://github.com/user-attachments/assets/f4c2f19c-4c11-43fb-ba82-d2a8fe2c8033" />
 
 
 RESULT:
